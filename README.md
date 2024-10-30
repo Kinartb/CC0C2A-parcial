@@ -4,7 +4,7 @@
 
 - El archivo [CC0C2A_parcial_v01.ipynb](https://github.com/Kinartb/CC0C2A-parcial/blob/main/CC0C2A_parcial_v01.ipynb) es la primera versión del trabajo parcial realizada.
 - El archivo [CC0C2A_parcial_v02.ipynb](https://github.com/Kinartb/CC0C2A-parcial/blob/main/CC0C2A_parcial_v02.ipynb) es la versión final del trabajo parcial realizada.
-- El archivo [infopankki.en-es.es](https://github.com/Kinartb/CC0C2A-parcial/blob/main/infopankki.en-es.es) es un texto donde se encuentran las palabras de un sitio web que ofrece información general sobre Finlandia en español-
+- El archivo [infopankki.en-es.es](https://github.com/Kinartb/CC0C2A-parcial/blob/main/infopankki.en-es.es) es un texto donde se encuentran las palabras de un sitio web que ofrece información general sobre Finlandia en español.
 
 ## Ejecución
 
